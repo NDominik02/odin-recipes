@@ -1,0 +1,11 @@
+body{
+    background-color: #E5D3B3;
+    text-align: center;
+}
+    table{
+    margin: 0 auto 0 auto;
+    width: 1200px;
+}
+#menu{
+    background-color: aliceblue;
+}
